@@ -13,5 +13,3 @@
 # OBSERVED:
 
 - File not found error OR GitHub reports HTTP 404 error (file not found)
-
-//Duplicate of #2
